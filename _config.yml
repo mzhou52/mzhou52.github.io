@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ming Zhou"
-  avatar           : "images/mzhou_full_body.jpg"
-  bio              : "Department of Cognitive Science, Johns Hopkins University"
+  avatar           : "images/mzhou_headshot.jpg"
+  bio              : "Department of Cognitive Science\nJohns Hopkins University"
   location         : "Baltimore, United States"
-  employer         : "computational cognitive neuroscience laboratory led by Leyla Isik"
+  employer         : "https://www.isiklab.org"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VakXHZwAAAAJ"
   email            : "mzhou52@jhu.edu"
