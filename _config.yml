@@ -27,7 +27,7 @@ author:
   location         : "Baltimore, United States"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=VakXHZwAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=VakXHZwAAAAJ"
   email            : "mzhou52@jhu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mzhou52"
+  github           : "https://github.com/mzhou52"
   google_plus      :
   keybase          :
   instagram        :
