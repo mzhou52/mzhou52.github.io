@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am an incoming Ph.D. student starting in Fall 2025 in the Department of Cognitive Science at Johns Hopkins University, advised by [Prof. Leyla Isik](https://www.isiklab.org/). My research focuses on using computational models to understand high-level human vision. Previously, I worked on exploring the computation mechanisms of object perception in the ventral visual pathway. In my Ph.D. research, I plan to focus more on the lateral visual pathway, particularly on social action perception.
+
+In addition to these research interests, I have contributed to the development of large-scale naturalistic neuroimaging datasets, including:
+[**Natural Object Dataset (NOD)**](https://www.nature.com/articles/s41597-023-02471-x) for object perception and [**Human Action Dataset (HAD)**](https://www.nature.com/articles/s41597-023-02325-6) for action perception. Please refer to the **Publications** section for more details.
+
+Prior to joining JHU, I received my bachelor's and master's degrees from Beijing Normal University (2018–2025), advised by Prof. Zonglei Zhen and Prof. Youyi Liu. I also had a remote internship (2024–present) with [Prof. Martin Hebart](https://hebartlab.com/) and Dr. Tonghe Zhuang (postdoctoral researcher) at the Max Planck Institute for Human Cognitive and Brain Sciences.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 Graduated from Beijing Normal University! Received my master degree!. 
 
 # 📝 Publications 
 
@@ -44,15 +47,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 - 2025.06*, Beijing Normal University, State Key Laboratory of Cognitive Neuroscience and Learning, Master of Science.. 
+- *2018.09 - 2022.06*, Beijing Normal University, Falculty of Psychology, Bachelor of Science. 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
