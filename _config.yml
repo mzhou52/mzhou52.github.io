@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ming Zhou"
-description              : "This is a personal website for Ming Zhou. "
+description              : "Using computational models to understand human vision"
 repository               : "mzhou52/mzhou52.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ming Zhou"
-  avatar           : "images/a661a5ec35d2fb7b8bf57c68e8babdb.jpg"
-  bio              : "Johns Hopkins University"
+  avatar           : "images/mzhou_full_body.jpg"
+  bio              : "Department of Cognitive Science, Johns Hopkins University"
   location         : "Baltimore, United States"
-  employer         :
+  employer         : "computational cognitive neuroscience laboratory led by Leyla Isik"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VakXHZwAAAAJ"
   email            : "mzhou52@jhu.edu"
