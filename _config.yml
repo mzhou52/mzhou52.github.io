@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ming Zhou"
-  avatar           : "images/mzhou_headshot.jpg"
+  avatar           : "images/head.jpg"
   bio              : "Johns Hopkins University"
   location         : "Baltimore, United States"
   employer         : 
