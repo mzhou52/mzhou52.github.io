@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a first-year Ph.D. student in the Department of Cognitive Science at Johns Hopkins University, advised by [Prof. Leyla Isik](https://www.isiklab.org/). My research focuses on using computational models to understand high-level human vision. Previously, I worked on exploring the computation mechanisms of object perception in the ventral visual pathway. In my Ph.D. research, I plan to focus more on the lateral visual pathway, particularly on social action perception.
+I am a 1<sup>st</sup> year Ph.D. student in the Department of Cognitive Science at Johns Hopkins University, advised by [Prof. Leyla Isik](https://www.isiklab.org/). My research is centered on leveraging computational models to explore high-level human vision, with a particular focus on understanding how humans perceive and recognize thousands of objects and actions present in the natural world. Additionally, I have extensive experience in neuroimaging, including the development and organization of several large-scale neuroimaging datasets.
 
 Prior to joining JHU, I received my bachelor's and master's degrees from Beijing Normal University (2018–2025), advised by Prof. Zonglei Zhen and Prof. Youyi Liu. I also had a remote internship (2024–present) with [Prof. Martin Hebart](https://hebartlab.com/) and Dr. Tonghe Zhuang (postdoctoral researcher) at the Max Planck Institute for Human Cognitive and Brain Sciences.
 
@@ -32,7 +32,7 @@ Prior to joining JHU, I received my bachelor's and master's degrees from Beijing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data</div><img src='images/HAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Human Action Dataset (HAD)](https://www.nature.com/articles/s41597-023-02325-6)
+[Human Action Dataset (HAD)](https://www.nature.com/articles/s41597-023-02325-6)&nbsp;&nbsp;&nbsp;&nbsp;[Download dataset](https://openneuro.org/datasets/ds004488)
 
 **Ming Zhou**, Zhengxin Gong, Yuxuan Dai, Yushan Wen, Youyi Liu & Zonglei Zhen
 
