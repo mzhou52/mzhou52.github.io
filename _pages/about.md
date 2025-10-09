@@ -36,7 +36,7 @@ Prior to joining JHU, I received my bachelor's and master's degrees from Beijing
 
 **Ming Zhou**, Zhengxin Gong, Yuxuan Dai, Yushan Wen, Youyi Liu & Zonglei Zhen
 
-- HAD is a large-scale functional magnetic resonance imaging (fMRI) dataset for human action recognition, which contains fMRI responses to 21,600 naturalistic 2-seconds video clips from 30 participants. These clips cover a diverse range of 180 everyday action categories, including sports, social interactions, and household. Preliminary analyses have demonstrated the dataset's high signal-to-noise ratio and promising potential for uncovering the representational structures across the visual cortex.
+- HAD is a large-scale functional magnetic resonance imaging (fMRI) dataset for human action recognition, which contains fMRI responses to 21,600 naturalistic 2-seconds video clips from 30 participants. These clips cover a diverse range of 180 everyday action categories, including sports, eating, personal care, social interactions, and household activities. Preliminary analyses have demonstrated the dataset's high signal-to-noise ratio and promising potential for uncovering the representational structures across the visual cortex.
   
 </div>
 </div>
