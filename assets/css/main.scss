@@ -41,50 +41,50 @@
 @import "print";
 
 .paper-box {
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    display: block;
+    background-color: #fff;
+    border: 1px solid #ededed;
+    border-radius: 14px;
+    overflow: hidden;
+    margin: 0 0 1.75em 0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+    &:hover {
+        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.10);
+        transform: translateY(-2px);
+    }
+
+    &:last-child {
+        margin-bottom: 0;
+    }
 
     .paper-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 2;
+        display: block;
+        background-color: #f6f7f9;
+        line-height: 0;
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            width: 100%;
+            height: auto;
+            display: block;
+            object-fit: contain;
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
-        order: 1;
-    }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
+        padding: 1.5em 1.75em 1.75em;
     }
 
+    > .badge {
+        margin: 1.1em 0 0.9em 1.1em;
+    }
 
+    &.no-image {
+        .paper-box-text {
+            padding-top: 1.75em;
+        }
+    }
 }
 
 $scroll_offset : 2em;
@@ -98,12 +98,24 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    display: inline-block;
+    padding: .3em 0.9rem;
     color: white;
     background-color: #00369f;
-    font-size: .8em;
+    font-size: .72em;
+    font-weight: 600;
+    letter-spacing: .03em;
+    border-radius: 999px;
+
+    &.badge-conference {
+        background-color: #0f766e;
+    }
+
+    &.badge-workshop {
+        background-color: #6b7280;
+    }
+
+    &.badge-static {
+        margin: 0 0 0.9em 0;
+    }
 }
